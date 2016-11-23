@@ -1,9 +1,6 @@
 # hops_shibboleth Cookbook
 
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+This cookbook installs Shibboleth for Hops
 
 ## Requirements
 
